@@ -1,0 +1,24 @@
+# datasets
+data/
+6. Turbofan Engine Degradation Simulation Data Set/
+10.+FEMTO+Bearing/
+*.zip
+federated_clients/
+output/*.csv
+digital_twins/*.pt
+
+# logs / outputs
+training_log.txt
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# editor / os
+.vscode/
+.DS_Store
+Thumbs.db
